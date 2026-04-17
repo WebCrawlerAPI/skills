@@ -9,3 +9,6 @@
 | Skill | Description |
 |-------|-------------|
 | [webcrawlerapi](./webcrawlerapi/) | Scrape a single page or crawl a full website — outputs markdown directly or saves crawl results to `.webcrawlerapi/` |
+
+## Links
+- [Website](https://webcrawlerapi.com)
