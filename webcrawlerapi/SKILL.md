@@ -1,6 +1,6 @@
 ---
 name: webcrawlerapi
-description: Scrape a single page or crawl a full website using WebCrawlerAPI. Trigger for: fetching page content, getting markdown from a URL, scraping a page, crawling a website/domain, websearch, webfetch.
+description: "Scrape a single page or crawl a full website using WebCrawlerAPI. Trigger for: fetching page content, getting markdown from a URL, scraping a page, crawling a website/domain, websearch, webfetch."
 ---
 
 # WebCrawlerAPI Skill
